@@ -6,8 +6,8 @@ from news import fetch_sentiment
 from streamlit_autorefresh import st_autorefresh
 from metrics import fetch_stock_metrics
 
-st.set_page_config(page_title="AI Stock Analyzer", layout="wide")
-st.title("📈 AI Stock Analyzer")
+st.set_page_config(page_title="Stock Analyzer", layout="wide")
+st.title("📈Stock Analyzer")
 
 # sidebar
 st.sidebar.header("Configuration")
