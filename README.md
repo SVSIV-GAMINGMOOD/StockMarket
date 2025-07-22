@@ -34,3 +34,5 @@ Support/Resistance & Pattern tools
  Fibonacci Retracement levels
  Trendlines
  Price Channels
+
+ Note: Some indicators are yet to be uploaded.
