@@ -1,7 +1,0 @@
-streamlit
-plotly
-yfinance
-newsapi-python
-textblob
-scikit-learn
-pandas
